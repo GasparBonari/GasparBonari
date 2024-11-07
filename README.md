@@ -1,4 +1,7 @@
 <h1 align="left">👋 Hi, I'm Gaspar!</h1>
+
+<img align="right" src="https://github.com/GasparBonari/GasparBonari/blob/main/gif2.gif?raw=true" alt="" />
+
 <h3 align="left">🧑🏻‍💻 Full Stack Developer</h3>
 
 - 🖥️ Check out [https://gasparbonari.netlify.app/](https://gasparbonari.netlify.app/)
@@ -7,7 +10,7 @@
 
 - ⚡ Passionate about **snowboarding 🏂🏻 and front-end development 🖼️**
   
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" width="540"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" width="512"/>
 
 <h3 align="left">Tech Stack 💻</h3>
 
@@ -34,7 +37,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" width="540"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" width="525"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gasparbonari&theme=darkhub&rank=-C,-B&rank=-?&no-frame=true" alt="gasparbonari" /></a> </p>
 
