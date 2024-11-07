@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Gaspar!</h1>
 
-<img align="right" src="https://github.com/GasparBonari/GasparBonari/blob/main/gif2.gif?raw=true" alt="" width="400"/>
+<img align="right" src="https://github.com/GasparBonari/GasparBonari/blob/main/gif2.gif?raw=true" alt=""/>
 
 <h3 align="left">🧑🏻‍💻 Full Stack Developer</h3>
 
