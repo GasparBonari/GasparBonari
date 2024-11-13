@@ -6,12 +6,14 @@
 
 - 🖥️ Check out [https://gasparbonari.netlify.app/](https://gasparbonari.netlify.app/)
 
+- ⚡ Passionate about **snowboarding 🏂🏻 and front-end development 🖼️**
+
 - 📫 Reach me at **gasparbonari@gmail.com**
 
-- ⚡ Passionate about **snowboarding 🏂🏻 and front-end development 🖼️**
-  
-
-<h3 align="left">Tech Stack 💻</h3>
+<h3>
+    Tech Stack
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="" width="20">
+</h3>  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
